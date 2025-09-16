@@ -1,5 +1,3 @@
-Tentu, berikut adalah README untuk kode visualisasi algoritma Dijkstra yang Anda berikan.
-
 # Visualisasi Algoritma Pathfinding Dijkstra
 
 ## 🗺️ Gambaran Umum
